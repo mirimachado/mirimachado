@@ -3,6 +3,10 @@
 Desenvolvedora backend. Tenho experiência em projetos que integram **Java e Python** no back-end com **React** no front-end, utilizando boas práticas de desenvolvimento.  
 Estou sempre buscando aprender mais sobre infraestrutura, automação e desenvolvimento escalável.
 
+Atualmente estou trabalhando em uma iniciativa própria de um microSaas. O SafeCloud Manager é uma plataforma SaaS voltada à segurança digital corporativa, cujo MVP (Produto Mínimo Viável) oferece uma solução integrada para empresas que desejam centralizar e proteger seus dados sensíveis, acessos e arquivos. Este projeto implementa uma arquitetura baseada em microserviços com foco na separação de responsabilidades e escalabilidade. Os serviços são independentes, comunicam-se de forma assíncrona e compartilham bibliotecas comuns para reutilização de código.
+
+Em paralelo, curso Engenharia de Software na Uniasselvi. Sempre realizando novos cursos para aperfeiçoamento técnico e aprendizado contínuo.
+
 ---
 
 <div style="display: inline_block"><br>
