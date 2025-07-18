@@ -1,6 +1,6 @@
 ## Oi! Eu sou a Miriã Machado. 
 
-Desenvolvedora full stack. Tenho experiência em projetos que integram **Java + Spring Boot** no back-end com **React** no front-end, utilizando boas práticas de desenvolvimento e arquitetura de software.  
+Desenvolvedora backend. Tenho experiência em projetos que integram **Java + Spring Boot** no back-end com **React** no front-end, utilizando boas práticas de desenvolvimento e arquitetura de software.  
 Estou sempre buscando aprender mais sobre infraestrutura, automação e desenvolvimento escalável.
 
 ---
