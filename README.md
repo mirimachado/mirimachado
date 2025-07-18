@@ -3,11 +3,6 @@
 Desenvolvedora full stack. Tenho experiência em projetos que integram **Java + Spring Boot** no back-end com **React** no front-end, utilizando boas práticas de desenvolvimento e arquitetura de software.  
 Estou sempre buscando aprender mais sobre infraestrutura, automação e desenvolvimento escalável.
 
-Atualmente focada em:
-- Desenvolvimento com **Java** e**Spring Boot**.
-- Integração de bancos relacionais (**PostgreSQL**) e não relacionais (**MongoDB**)
-- Utilização de **Docker** para ambientes isolados 
-
 ---
 
 <div style="display: inline_block"><br>
