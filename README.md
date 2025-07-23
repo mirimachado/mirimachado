@@ -5,6 +5,10 @@ Iniciei os meus estudos em março de 2023, contabilizando alguns anos de dedida�
 
 Atualmente estou trabalhando em uma iniciativa própria de um microSaas. O SafeCloud Manager é uma plataforma SaaS voltada à segurança digital corporativa, cujo MVP (Produto Mínimo Viável) oferece uma solução integrada para empresas que desejam centralizar e proteger seus dados sensíveis, acessos e arquivos. Este projeto implementa uma arquitetura baseada em microserviços com foco na separação de responsabilidades e escalabilidade. Os serviços são independentes, comunicam-se de forma assíncrona e compartilham bibliotecas comuns para reutilização de código.
 
+Algumas das próximas fases do desenvolvimento incluirão funcionalidades como gerenciamento de senhas criptografadas (IAM), armazenamento seguro de arquivos com criptografia AES, relatórios de auditoria e conformidade com LGPD/GDPR, além de autenticação multifator (MFA) e alertas de acesso suspeito.
+A plataforma também contará com interface web interativa desenvolvida com React e deploy em ambiente serverless.
+O objetivo é entregar uma solução robusta, segura e acessível para empresas que buscam centralizar sua gestão de acessos, dados sensíveis e backups criptografados em um único lugar.
+
 Em paralelo, curso Engenharia de Software na Uniasselvi. Sempre realizando novos cursos para aperfeiçoamento técnico e aprendizado contínuo.
 
 ---
