@@ -9,6 +9,9 @@ Algumas das próximas fases do desenvolvimento incluirão funcionalidades como g
 A plataforma também contará com interface web interativa desenvolvida com React e deploy em ambiente serverless.
 O objetivo é entregar uma solução robusta, segura e acessível para empresas que buscam centralizar sua gestão de acessos, dados sensíveis e backups criptografados em um único lugar.
 
+Fiz uma landing page só para apresentar o produto, abaixo:
+Link de apresentação desse projeto: https://safecloud.squareweb.app/
+
 Em paralelo, curso Engenharia de Software na Uniasselvi. Sempre realizando novos cursos para aperfeiçoamento técnico e aprendizado contínuo.
 
 ---
