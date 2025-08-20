@@ -1,7 +1,6 @@
 ## Oi! Eu sou a Miriã Machado. 
 
 Desenvolvedora fullstack. Tenho experiência em projetos que integram **Java e Python** no back-end com **React** no front-end.
-Iniciei os meus estudos em março de 2023, contabilizando alguns anos de dedidação autônoma, e hoje estou buscando aprender mais sobre infraestrutura, automação e desenvolvimento escalável. 
 
 Atualmente estou trabalhando em uma iniciativa própria de um SaaS. O SafeCloud Manager é uma plataforma SaaS voltada à segurança digital corporativa, cujo MVP (Produto Mínimo Viável) oferece uma solução integrada para empresas que desejam centralizar e proteger seus dados sensíveis, acessos e arquivos. Este projeto implementa uma arquitetura baseada em microserviços com foco na separação de responsabilidades e escalabilidade. Os serviços são independentes, comunicam-se de forma assíncrona e compartilham bibliotecas comuns para reutilização de código.
 
