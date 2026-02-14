@@ -1,17 +1,17 @@
-## Oi! Eu sou a Miriã Machado. 
+## Hi!! I'm Miriã Machado.
 
-Desenvolvedora fullstack. Tenho experiência em projetos que integram **Java e Python** no back-end com **React** no front-end.
+DevOps Engineer Intern at a multinational company, with a strong foundation in fullstack development. I have hands-on experience with projects integrating Java and Python backends with React frontends, and I'm currently expanding my expertise in cloud infrastructure, CI/CD pipelines, and automation.
+Current Focus:
 
-Atualmente estou trabalhando em uma iniciativa própria de um SaaS. O SafeCloud Manager é uma plataforma SaaS voltada à segurança digital corporativa, cujo MVP (Produto Mínimo Viável) oferece uma solução integrada para empresas que desejam centralizar e proteger seus dados sensíveis, acessos e arquivos. Este projeto implementa uma arquitetura baseada em microserviços com foco na separação de responsabilidades e escalabilidade. Os serviços são independentes, comunicam-se de forma assíncrona e compartilham bibliotecas comuns para reutilização de código.
+DevOps practices and cloud infrastructure management
+Building and maintaining CI/CD pipelines
+Infrastructure as Code (IaC) and automation
+Developing my personal SaaS project: SafeCloud Manager
 
-Algumas das próximas fases do desenvolvimento incluirão funcionalidades como gerenciamento de senhas criptografadas (IAM), armazenamento seguro de arquivos com criptografia AES, relatórios de auditoria e conformidade com LGPD/GDPR, além de autenticação multifator (MFA) e alertas de acesso suspeito.
-A plataforma também contará com interface web interativa desenvolvida com React e deploy em ambiente serverless.
-O objetivo é entregar uma solução robusta, segura e acessível para empresas que buscam centralizar sua gestão de acessos, dados sensíveis e backups criptografados em um único lugar.
+SafeCloud Manager is a SaaS platform focused on corporate digital security. The MVP (Minimum Viable Product) offers an integrated solution for companies looking to centralize and protect their sensitive data, access controls, and files. This project implements a microservices-based architecture with emphasis on separation of concerns and scalability. Services are independent, communicate asynchronously, and share common libraries for code reusability.
+Upcoming development phases will include features such as encrypted password management (IAM), secure file storage with AES encryption, audit reports and LGPD/GDPR compliance, multi-factor authentication (MFA), and suspicious access alerts. The platform will also feature an interactive web interface built with React and serverless deployment. The goal is to deliver a robust, secure, and accessible solution for companies seeking to centralize their access management, sensitive data, and encrypted backups in one place.
 
-Fiz uma landing page só para apresentar o produto, abaixo:
-Link de apresentação desse projeto: https://safecloud.squareweb.app/
-
-Em paralelo, curso Engenharia de Software na Uniasselvi. Sempre realizando novos cursos para aperfeiçoamento técnico e aprendizado contínuo.
+I'm currently pursuing a Software Engineering degree at Uniasselvi, while continuously taking courses for technical improvement and ongoing learning.
 
 ---
 
@@ -29,11 +29,10 @@ Em paralelo, curso Engenharia de Software na Uniasselvi. Sempre realizando novos
 
 ---
 
-### Onde me encontrar:
+### Connect with me:
 <div>
   <a href="mailto:miriamachado.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/miri%C3%A3-machado-de-camargo-4a6a26206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
 </div>
 
 
