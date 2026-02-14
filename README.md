@@ -11,7 +11,7 @@ Developing my personal SaaS project: SafeCloud Manager
 SafeCloud Manager is a SaaS platform focused on corporate digital security. The MVP (Minimum Viable Product) offers an integrated solution for companies looking to centralize and protect their sensitive data, access controls, and files. This project implements a microservices-based architecture with emphasis on separation of concerns and scalability. Services are independent, communicate asynchronously, and share common libraries for code reusability.
 Upcoming development phases will include features such as encrypted password management (IAM), secure file storage with AES encryption, audit reports and LGPD/GDPR compliance, multi-factor authentication (MFA), and suspicious access alerts. The platform will also feature an interactive web interface built with React and serverless deployment. The goal is to deliver a robust, secure, and accessible solution for companies seeking to centralize their access management, sensitive data, and encrypted backups in one place.
 
-I'm currently pursuing a Software Engineering degree at Uniasselvi, while continuously taking courses for technical improvement and ongoing learning.
+I'm currently pursuing a Systems Analysis and Development degree at Uniasselvi, while continuously taking courses for technical improvement and ongoing learning.
 
 ---
 <div style="display: inline_block"><br>
